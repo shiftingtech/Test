@@ -11,11 +11,10 @@
 | Motion | stuff | this is a lame link | | | | X | | |
 
 
-## simpler test
-
-| Head 1 | Head 2 |
-|:---|:---|
-| 1 | 2 |
-
+<div id="text"></div>
+ 
+<script>
+document.getElementById("text").innerHTML = "Text added by JavaScript code";
+</script>
 
 
