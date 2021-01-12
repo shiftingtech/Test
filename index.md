@@ -5,7 +5,6 @@
 ## the list
 
 | Category | Item | Source 1 |
-|:---|:---|:---|
 
 ## more junk
 
