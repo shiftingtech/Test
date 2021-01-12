@@ -28,9 +28,9 @@ document.getElementById("text").innerHTML = "Text added by JavaScript code";
  
 {% for item in site.data.sourcing %}
 <tr>
- <td> item.Category </td>
- <td> item.Item </td>
- <td> item.Source1 </td>
+ <td> {{ item.Category }}</td>
+ <td> {{ item.Item }} </td>
+ <td> {{ item.Source1 }}</td>
 </tr>
  {% endfor %}
  </table>
