@@ -17,4 +17,22 @@
 document.getElementById("text").innerHTML = "Text added by JavaScript code";
 </script>
 
+## Data file test
+
+<table>
+<tr>
+ <th>category</th>
+ <th>item</th>
+ <th>source</th>
+</tr>
+ 
+{% for item in site.data.sourcing %}
+<tr>
+ <td> item.Category </td>
+ <td> item.Item </td>
+ <td> item.Source1 </td>
+</tr>
+ {% endfor %}
+ </table>
+
 
