@@ -17,7 +17,7 @@
 document.getElementById("text").innerHTML = "Text added by JavaScript code";
 </script>
 
-## Data file test v2
+## Data file test v3
 
 <table>
 <tr>
@@ -28,12 +28,11 @@ document.getElementById("text").innerHTML = "Text added by JavaScript code";
  
 {% for entry in site.data.sourcing %}
 <tr>
- {{ entry }}
  <td> {{ entry.category }}</td>
  <td> {{ entry.item }} </td>
  <td> {{ entry.source1 }}</td>
 </tr>
- {% endfor %}
+{% endfor %}
  </table>
 
 
