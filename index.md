@@ -26,11 +26,11 @@ document.getElementById("text").innerHTML = "Text added by JavaScript code";
  <th>source</th>
 </tr>
  
-{% for item in site.data.sourcing %}
+{% for entry in site.data.sourcing %}
 <tr>
- <td> {{ item.category }}</td>
- <td> {{ item.item }} </td>
- <td> {{ item.source1 }}</td>
+ <td> {{ entry.category }}</td>
+ <td> {{ entry.item }} </td>
+ <td> {{ entry.source1 }}</td>
 </tr>
  {% endfor %}
  </table>
