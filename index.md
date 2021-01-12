@@ -17,7 +17,7 @@
 document.getElementById("text").innerHTML = "Text added by JavaScript code";
 </script>
 
-## Data file test
+## Data file test v2
 
 <table>
 <tr>
