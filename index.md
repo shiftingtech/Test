@@ -28,6 +28,7 @@ document.getElementById("text").innerHTML = "Text added by JavaScript code";
  
 {% for entry in site.data.sourcing %}
 <tr>
+ {{ entry }}
  <td> {{ entry.category }}</td>
  <td> {{ entry.item }} </td>
  <td> {{ entry.source1 }}</td>
