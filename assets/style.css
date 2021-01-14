@@ -1,7 +1,7 @@
-tr:nth-child(even) {
+tr:nth-child(4n+1), tr:nth-child(4n+2) {
   background-color: #CCCCCC
 }
-tr:nth-child(odd) {
+tr:nth-child(4n), tr:nth-child(4n+3) {
   background-color: #EEEEEE
 }
 th {
@@ -28,6 +28,15 @@ th,
 td {
   padding: 0.25em 0.5em 0.25em 1em;
   text-indent: -0.5em;
+  border: 0px solid black;
+  
+}
+td#comment {
+  padding: 0.25em 0.5em 0.25em 5em;
+  font-style:italic;
+  font-size:small;
+  
+    
 }
 
 th {
