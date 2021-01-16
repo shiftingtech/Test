@@ -24,8 +24,9 @@ Fasteners,M3 Hexnut ,Bolt Depot,https://www.boltdepot.com/Product-Details.aspx?p
 Fasteners,M3 T-nut HNTAJ5-3,<del>Misumi</del>,https://us.misumi-ec.com/vona2/detail/110302247910/,,,,,,,,,,X,,,Misumi short t-nuts are not required anywhere in the V2.4 build. You can source the cheaper ball spring options if you choose.
 Fasteners,M5 T-nut HNTAJ5-5,<del>Misumi</del>,https://us.misumi-ec.com/vona2/detail/110302247910/,,,,,,,,,,X,,,Misumi short t-nuts are not required anywhere in the V2.4 build. You can source the cheaper ball spring options if you choose.
 Fasteners,M3 Hammer Head T-Nuts,Aliexpress,https://www.aliexpress.com/item/33023248880.html,https://s.click.aliexpress.com/e/_dSjU9WW,,,,,,,,,X,,,
-Motion,GT2 Open Belt LL-2GT-6 (6mm wide) - Length Dependant on Config,Trianglelab,https://www.aliexpress.com/item/GATES-LL-2GT-3D-printer-gear-synchronous-belt-GT2-Width-6MM-9MM-High-quality-wear-resistant/32853559638.html,http://s.click.aliexpress.com/e/2pncOJKs,,,,,,,,,X,,,GATES belts are required for every open loop belt on the machine. SDP-SI is a US gates reseller (and tested)
-Motion,GT2 Open Belt LL-2GT-9 (9mm wide) - Length Dependant on Config,Trianglelab,https://www.aliexpress.com/item/GATES-LL-2GT-3D-printer-gear-synchronous-belt-GT2-Width-6MM-9MM-High-quality-wear-resistant/32853559638.html,http://s.click.aliexpress.com/e/2pncOJKs,,,,,,,,,X,,,
+Motion,GT2 Open Belt LL-2GT-6 (6mm wide),Trianglelab,https://www.aliexpress.com/item/GATES-LL-2GT-3D-printer-gear-synchronous-belt-GT2-Width-6MM-9MM-High-quality-wear-resistant/32853559638.html,http://s.click.aliexpress.com/e/2pncOJKs,,,,,,,,,X,,,"Length Dependant on Config.
+GATES belts are required for every open loop belt on the machine. SDP-SI is a US gates reseller (and tested)"
+Motion,GT2 Open Belt LL-2GT-9 (9mm wide),Trianglelab,https://www.aliexpress.com/item/GATES-LL-2GT-3D-printer-gear-synchronous-belt-GT2-Width-6MM-9MM-High-quality-wear-resistant/32853559638.html,http://s.click.aliexpress.com/e/2pncOJKs,,,,,,,,,X,,,
 Motion,GT2 Belt Loop (6mm wide) - 188mm,POWGE,,,,,,,,,,,X,,,
 Motion,GT2 20T (6mm wide) Pulley (5mm bore),POWGE,,,,,,,,,,,X,,,
 Motion,GT2 16T (6mm wide) Pulley (5mm bore),POWGE,,,,,,,,,,,X,,,
@@ -44,13 +45,13 @@ Vibration Management,Rubber Compressor Foot,Amazon,,,,,,,,,,,X,,,Comes and goes 
 Electronics,Omron Mouse Button - Micro Switch,Digikey,,,,,,,,,,,X,,,
 Electronics,PL-08N Inductive Probe,Zhongde,,,,,,,,,,,X,,,
 Electronics,BAT85 Diode,DigiKey,,,,,,,,,,,X,,,"You do not want to get this part from an Ali vendor as quality can be suspect. If these sources are not available in your area, please ask in a regional channel on Discord or search a local electronics store."
-Electronics,Omron G3NA-210B-DC5 (10A) or Crydom D2425 (25A) or Crydom 84134000 (10A) SSR,Digikey (Omron),,,,,,,,,,,X,,,"Crydom (2nd Link, also valid alternative), UTU PN just adds TUV support as a certification to the relay (Omron Only)"
+Electronics,Omron G3NA-210B-DC5 (10A) or <br> Crydom D2425 (25A) or <br>Crydom 84134000 (10A) SSR,Digikey (Omron),,,,,,,,,,,X,,,"Crydom (2nd Link, also valid alternative), UTU PN just adds TUV support as a certification to the relay (Omron Only)"
 Electronics,NEMA17 Motor 17HS19-2004S,Stepper Online,,,,,,,,,,,X,,,Strongly advise buying the specific steppers to reduce the chance of underperformance
 Electronics,Mean Well LRS-200-24 PSU,Digikey,,,,,,,,,,,X,,,Do not cheap out on this. Get a legitmate MeanWell PSU. Higher wattage is not necessary since the bed is mains powered. Higher wattage also comes with a fan which adds to the noise.
 Electronics,Mean Well RS-25-5 PSU,Digikey,,,,,,,,,,,X,,,Do not cheap out on this. Get a legitmate MeanWell PSU.
 Electronics,ZF - Rocker Switches DPST 16A ON-OFF,Digikey (no Light),,,,,,,,,,,X,,,Note the Mouser (Red Light) only has a 125v indicator in it. For 220/240 countries use the no light model
-Electronics,Fuse Medium Time Delay Acting 8A 250V Holder Cartridge 5 X 20mm Glass,Digikey,,,,,,,,,,,X,,,
-Electronics,TycoElectronics - 10EGG1-2 (Normal) or 10EHG1-2 (Medical): Filtered Power Inlet,Digikey,,,,,,,,,,,X,,,
+Electronics,Fuse: Medium Time Delay Acting 8A 250V ,Digikey,,,,,,,,,,,X,,,5 X 20mm Glass Cartridge 
+Electronics,Filtered Power Inlet: <br> TycoElectronics - 10EGG1-2 (Normal) or 10EHG1-2 (Medical),Digikey,,,,,,,,,,,X,,,
 Electronics,IEC320 C14 Inlet - Push-fit - w/ Rocker Switch & Fuse,See note for PiF Digikey,,,,,,,,,,,X,,,If you are getting PiF parts you will need the filtered inlet and switch
 Electronics,40x40x10 Axial Fan- Ball Bearing (24V),GDSTIME,,,,,,,,,,,X,,,Delta or Sunon are preferred brands
 Electronics,40x40x20 Centrifugal Blower Fan - Ball Bearing (24V),GDSTIME,,,,,,,,,,,X,,,
@@ -98,7 +99,8 @@ Cables,IGUS E2i-10-10-018-0 Chain,,,,,,,,,,,,X,,,X/Y Chain (250 - 16 links) (300
 Cables,IGUS E2i-100-10-12PZ Chain Ends,,,,,,,,,,,,X,,,X/Y Chain End link sets
 Panels,Bottom/Back/Electronics Bay Panels,Michaels Craft Store (Coroplast),,,,,,,,,,,X,,,
 Panels,Side/Front/Top Acrylic Panels,TAP Plastics (Acrylic),,,,,,,,,,,X,,,
-Buildplate,Aluminum Build Plate (MIC6/ATP-5/Jig Plate/etc),,,,,,,,,,,,X,,, (5/16in or 8mm depending on whats available in your country)
+Buildplate,Aluminum Build Plate ,,,,,,,,,,,,X,,,"MIC6/ATP-5/Jig Plate/etc
+(5/16in or 8mm depending on whats available in your country)"
 Buildplate,Silicone AC Heater 200x200mm,Keenovo (120v),,,,,,,,,,,X,,,
 ,Silicone AC Heater 240x240mm,Keenovo (120v),,,,,,,,,,,X,,,
 ,Silicone AC Heater 300x300mm,Keenovo (120v),,,,,,,,,,,X,,,
