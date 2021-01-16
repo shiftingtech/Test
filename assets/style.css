@@ -41,7 +41,7 @@ td {
 }
 td#item {
   padding: 0.25em 0.5em 0.25em 0.25em;
-  font-style:bold;
+  font-weight:bold;
   white-space: nowrap;
 
 }
