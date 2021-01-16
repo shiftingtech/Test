@@ -32,14 +32,14 @@ td {
   padding: 0.25em 0.5em 0.25em 1em;
   text-indent: -0.5em;
   border: 0px solid black;
+  white-space:nowrap;
   
 }
 td#comment {
   padding: 0.25em 0.5em 0.25em 5em;
   font-style:italic;
   font-size:small;
-  text-wrap:normal;
-  word-wrap:break-word;
+  white-space: normal;
  
 }
 
