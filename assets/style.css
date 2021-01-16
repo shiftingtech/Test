@@ -7,6 +7,11 @@ tr:nth-child(4n+1), tr:nth-child(4n+2) {
 tr:nth-child(4n), tr:nth-child(4n+3) {
   background-color: #EEEEEE
 }
+
+tr:hover{
+  background-color: #FF5555;
+}
+
 th {
   background-color: #DDDDDD;
 }
