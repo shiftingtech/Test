@@ -8,7 +8,7 @@ tr:nth-child(4n), tr:nth-child(4n+3) {
   background-color: #EEEEEE
 }
 th {
-  background-color: rgba(0, 0, 0, 0.5);
+  background-color: #DDDDDD;
 }
 
 td {
@@ -29,14 +29,15 @@ td:nth-of-type(3) {
 
 th,
 td {
-  padding: 0.25em 0.5em 0.25em 1em;
-  text-indent: -0.5em;
+  padding: 0.25em;
+  font-size:small;
   border: 0px solid black;
   white-space:nowrap;
   
 }
 td#comment {
-  padding: 0.25em 0.5em 0.25em 5em;
+  padding: 0.25em 0.5em 0.25em 3em;
+  text-indent: -1em;
   font-style:italic;
   font-size:small;
   white-space: normal;
