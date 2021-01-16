@@ -1,70 +1,69 @@
 category,item,source1,source1_link,source1_affiliate,source2,source2_link,source2_affiliate,source3,source3_link,source3_affilliate,V0,V1,V2,SW,VL,comments
-Filament,Primary Color (Black),KVP Black,https://www.villageplastics.com/product/abs/,,,,,,,,,,X,,,MakeShaper ABS
-Filament,Secondary Color (Red),KVP Voron Red,https://www.villageplastics.com/product/abs/,,,,,,,,,,X,,,MakeShaper ABS
-Printed Parts,Printed Parts,Print Yourself,,,,,,,,,,,X,,,
-Fasteners,M5x40 SHCS (ISO 4762 / DIN 912),Bolt Depot,https://www.boltdepot.com/Product-Details.aspx?product=6527,,,,,,,,,,X,,,
-Fasteners,M5x30 BHCS (ISO 7380-1),Bolt Depot,https://www.boltdepot.com/Product-Details.aspx?product=15651,,,,,,,,,,X,,,
-Fasteners,M5x16 BHCS (ISO 7380-1),Bolt Depot,https://www.boltdepot.com/Product-Details.aspx?product=15648,,,,,,,,,,X,,,
-Fasteners,M5x10 BHCS (ISO 7380-1),Bolt Depot,https://www.boltdepot.com/Product-Details.aspx?product=15646,,,,,,,,,,X,,,
-Fasteners,M4x6 BHCS (ISO 7380-1),Bolt Depot,https://www.boltdepot.com/Product-Details.aspx?product=18944,,,,,,,,,,X,,,
-Fasteners,M3x40 SHCS (ISO 4762 / DIN 912),Bolt Depot,https://www.boltdepot.com/Product-Details.aspx?product=6387,,,,,,,,,,X,,,
-Fasteners,M3x30 SHCS (ISO 4762 / DIN 912),Bolt Depot,https://www.boltdepot.com/Product-Details.aspx?product=13641,,,,,,,,,,X,,,
-Fasteners,M3x20 SHCS (ISO 4762 / DIN 912),Bolt Depot,https://www.boltdepot.com/Product-Details.aspx?product=13639,,,,,,,,,,X,,,
-Fasteners,M3x16 SHCS (ISO 4762 / DIN 912),Bolt Depot,https://www.boltdepot.com/Product-Details.aspx?product=13638,,,,,,,,,,X,,,
-Fasteners,M3x12 SHCS (ISO 4762 / DIN 912),Bolt Depot,https://www.boltdepot.com/Product-Details.aspx?product=13637,,,,,,,,,,X,,,
-Fasteners,M3x8 SHCS (ISO 4762 / DIN 912),Bolt Depot,https://www.boltdepot.com/Product-Details.aspx?product=13635,,,,,,,,,,X,,,
-Fasteners,M3x6 BHCS (ISO 7380-1),Bolt Depot,https://www.boltdepot.com/Product-Details.aspx?product=13334,,,,,,,,,,X,,,
-Fasteners,M2x10 Self Tapping Screw for Plastics,McMaster-Carr (50 pack),https://www.mcmaster.com/99397A267/,,,,,,,,,,X,,,
-Fasteners,M3 Threaded Insert,Aliexpress - M3x5x4,https://www.aliexpress.com/item/4000232858343.html,https://s.click.aliexpress.com/e/_dW3Uprs,,,,,,,,,X,,,
+Filament,Primary Color (Black),KVP Black,https://www.villageplastics.com/product/abs/,,Paramount ABS,https://www.paramount-3d.com/product-page/absblack,https://amzn.to/2nb63qR,eSun ABS+,https://www.amazon.com/eSUN-1-75mm-Printer-Filament-2-2lbs/dp/B018F586ES,https://amzn.to/2l1XFZV,,,X,,,MakeShaper ABS
+Filament,Secondary Color (Red),KVP Voron Red,https://www.villageplastics.com/product/abs/,,Paramount ABS,https://www.paramount-3d.com/product-page/abs-pantone-enzo-red-485c-1-75mm-1kg-filament-trrl3020485c,https://amzn.to/2lqEYQ1,Hatchbox ABS,https://www.amazon.com/HATCHBOX-3D-Filament-Dimensional-Accuracy/dp/B00J0HB1YI,https://amzn.to/2ltf8Lj,,,X,,,MakeShaper ABS
+Printed Parts,Printed Parts,Print Yourself,,,Print It Forward,https://pif.voron.dev/,,,,,,,X,,,
+Fasteners,M5x40 SHCS (ISO 4762 / DIN 912),Bolt Depot,https://www.boltdepot.com/Product-Details.aspx?product=6527,,McMaster-Carr  (10 pack),https://www.mcmaster.com/91290A196,,,,,,,X,,,
+Fasteners,M5x30 BHCS (ISO 7380-1),Bolt Depot,https://www.boltdepot.com/Product-Details.aspx?product=15651,,McMaster-Carr (100 pack),https://www.mcmaster.com/91239A236,,,,,,,X,,,
+Fasteners,M5x16 BHCS (ISO 7380-1),Bolt Depot,https://www.boltdepot.com/Product-Details.aspx?product=15648,,McMaster-Carr (100 pack),https://www.mcmaster.com/91239A232,,,,,,,X,,,
+Fasteners,M5x10 BHCS (ISO 7380-1),Bolt Depot,https://www.boltdepot.com/Product-Details.aspx?product=15646,,McMaster-Carr (100 pack),https://www.mcmaster.com/91239A224,,,,,,,X,,,
+Fasteners,M4x6 BHCS (ISO 7380-1),Bolt Depot,https://www.boltdepot.com/Product-Details.aspx?product=18944,,McMaster-Carr (100 pack),https://www.mcmaster.com/91239a138,,,,,,,X,,,
+Fasteners,M3x40 SHCS (ISO 4762 / DIN 912),Bolt Depot,https://www.boltdepot.com/Product-Details.aspx?product=6387,,McMaster-Carr (25 pack),https://www.mcmaster.com/91290A136,,,,,,,X,,,
+Fasteners,M3x30 SHCS (ISO 4762 / DIN 912),Bolt Depot,https://www.boltdepot.com/Product-Details.aspx?product=13641,,McMaster-Carr (10 pack),https://www.mcmaster.com/91290A171,,,,,,,X,,,
+Fasteners,M3x20 SHCS (ISO 4762 / DIN 912),Bolt Depot,https://www.boltdepot.com/Product-Details.aspx?product=13639,,McMaster-Carr (100 pack),https://www.mcmaster.com/91290A123,,,,,,,X,,,
+Fasteners,M3x16 SHCS (ISO 4762 / DIN 912),Bolt Depot,https://www.boltdepot.com/Product-Details.aspx?product=13638,,McMaster-Carr (100 pack),https://www.mcmaster.com/91290A120,,,,,,,X,,,
+Fasteners,M3x12 SHCS (ISO 4762 / DIN 912),Bolt Depot,https://www.boltdepot.com/Product-Details.aspx?product=13637,,McMaster-Carr (100 pack),https://www.mcmaster.com/91290A117,,,,,,,X,,,
+Fasteners,M3x8 SHCS (ISO 4762 / DIN 912),Bolt Depot,https://www.boltdepot.com/Product-Details.aspx?product=13635,,McMaster-Carr (100 pack),https://www.mcmaster.com/91290a113,,,,,,,X,,,
+Fasteners,M3x6 BHCS (ISO 7380-1),Bolt Depot,https://www.boltdepot.com/Product-Details.aspx?product=13334,,McMaster-Carr (100 pack),https://www.mcmaster.com/91239a111,,,,,,,X,,,
+Fasteners,M2x10 Self Tapping Screw for Plastics,McMaster-Carr (50 pack),https://www.mcmaster.com/99397A267/,,AliExpress,https://www.aliexpress.com/item/32748428213.html,http://s.click.aliexpress.com/e/lZCUQlFa,,,,,,X,,,
+Fasteners,M3 Threaded Insert,Aliexpress - M3x5x4,https://www.aliexpress.com/item/4000232858343.html,https://s.click.aliexpress.com/e/_dW3Uprs,<del>Amazon</del>,https://www.amazon.com/gp/product/B077CJV3Z9/,,,<del>McMaster-Carr</del>,https://www.mcmaster.com/94180A331,,,X,,,
 Fasteners,M4 knurled nut (DIN 466-B),,,,,,,,,,,,X,,,
-Fasteners,5x10x1 Shim Ring (DIN 988),Aliexpress,https://www.aliexpress.com/item/32917948919.html,http://s.click.aliexpress.com/e/41Vkdm7q,,,,,,,,,X,,,
-Fasteners,M3 Washer,Bolt Depot,https://www.boltdepot.com/Product-Details.aspx?product=4513,,,,,,,,,,X,,,
+Fasteners,5x10x1 Shim Ring (DIN 988),Aliexpress,https://www.aliexpress.com/item/32917948919.html,http://s.click.aliexpress.com/e/41Vkdm7q,McMaster-Carr (50 pack),https://www.mcmaster.com/98055a099,,,,,,,X,,,
+Fasteners,M3 Washer,Bolt Depot,https://www.boltdepot.com/Product-Details.aspx?product=4513,,McMaster-Carr (100 pack),https://www.mcmaster.com/93475A210,,,,,,,X,,,
 Fasteners,M5 Hexnut,Bolt Depot,https://www.boltdepot.com/Product-Details.aspx?product=4785,,,,,,,,,,X,,,
-Fasteners,M3 Hexnut ,Bolt Depot,https://www.boltdepot.com/Product-Details.aspx?product=4783,,,,,,,,,,X,,,
-Fasteners,M3 T-nut HNTAJ5-3,<del>Misumi</del>,https://us.misumi-ec.com/vona2/detail/110302247910/,,,,,,,,,,X,,,Misumi short t-nuts are not required anywhere in the V2.4 build. You can source the cheaper ball spring options if you choose.
-Fasteners,M5 T-nut HNTAJ5-5,<del>Misumi</del>,https://us.misumi-ec.com/vona2/detail/110302247910/,,,,,,,,,,X,,,Misumi short t-nuts are not required anywhere in the V2.4 build. You can source the cheaper ball spring options if you choose.
-Fasteners,M3 Hammer Head T-Nuts,Aliexpress,https://www.aliexpress.com/item/33023248880.html,https://s.click.aliexpress.com/e/_dSjU9WW,,,,,,,,,X,,,
-Motion,GT2 Open Belt LL-2GT-6 (6mm wide),Trianglelab,https://www.aliexpress.com/item/GATES-LL-2GT-3D-printer-gear-synchronous-belt-GT2-Width-6MM-9MM-High-quality-wear-resistant/32853559638.html,http://s.click.aliexpress.com/e/2pncOJKs,,,,,,,,,X,,,"Length Dependant on Config.
+Fasteners,M3 Hexnut ,Bolt Depot,https://www.boltdepot.com/Product-Details.aspx?product=4783,,McMaster-Carr (100 pack),https://www.mcmaster.com/90591A250,,,,,,,X,,,
+Fasteners,M3 T-nut <del>HNTAJ5-3</del>,<del>Misumi</del>,https://us.misumi-ec.com/vona2/detail/110302247910/,,ZFhong,https://www.aliexpress.com/item/50PCS-20-series-Roll-in-T-Spring-Nuts-M3-M4-M5-M6-For-2020-Aluminum-Profiles/32805163712.html,http://s.click.aliexpress.com/e/KUHCwnu4,Link CNC,https://www.aliexpress.com/item/32706208829.html,http://s.click.aliexpress.com/e/CjL58TXS,,,X,,,Misumi short t-nuts are not required anywhere in the V2.4 build. You can source the cheaper ball spring options if you choose.
+Fasteners,M5 T-nut <del>HNTAJ5-5</del>,<del>Misumi</del>,https://us.misumi-ec.com/vona2/detail/110302247910/,,ZFhong,https://www.aliexpress.com/item/50PCS-20-series-Roll-in-T-Spring-Nuts-M3-M4-M5-M6-For-2020-Aluminum-Profiles/32805163712.html,http://s.click.aliexpress.com/e/Cj06YPR2,Link CNC,https://www.aliexpress.com/item/32706208829.html,http://s.click.aliexpress.com/e/rRVnt3M4,,,X,,,Misumi short t-nuts are not required anywhere in the V2.4 build. You can source the cheaper ball spring options if you choose.
+Fasteners,M3 Hammer Head T-Nuts,Aliexpress,https://www.aliexpress.com/item/33023248880.html,https://s.click.aliexpress.com/e/_dSjU9WW,Amazon,https://www.amazon.com/dp/B07SDFCTD4/,,,,,,,X,,,
+Motion,GT2 Open Belt LL-2GT-6 (6mm wide),Trianglelab,https://www.aliexpress.com/item/GATES-LL-2GT-3D-printer-gear-synchronous-belt-GT2-Width-6MM-9MM-High-quality-wear-resistant/32853559638.html,http://s.click.aliexpress.com/e/2pncOJKs,SDP-SI (Genuine US Made Gates),http://shop.sdp-si.com/catalog/product/?id=A_6R51MC060,,POWGE,https://www.aliexpress.com/item/32987817703.html,https://s.click.aliexpress.com/e/_9G8ynJ,,,X,,,"Length Dependant on Config.
 GATES belts are required for every open loop belt on the machine. SDP-SI is a US gates reseller (and tested)"
-Motion,GT2 Open Belt LL-2GT-9 (9mm wide),Trianglelab,https://www.aliexpress.com/item/GATES-LL-2GT-3D-printer-gear-synchronous-belt-GT2-Width-6MM-9MM-High-quality-wear-resistant/32853559638.html,http://s.click.aliexpress.com/e/2pncOJKs,,,,,,,,,X,,,
-Motion,GT2 Belt Loop (6mm wide) - 188mm,POWGE,,,,,,,,,,,X,,,
-Motion,GT2 20T (6mm wide) Pulley (5mm bore),POWGE,,,,,,,,,,,X,,,
-Motion,GT2 16T (6mm wide) Pulley (5mm bore),POWGE,,,,,,,,,,,X,,,
-Motion,GT2 20T (9mm wide) Pulley (5mm bore),POWGE,,,,,,,,,,,X,,,
-Motion,GT2 20T (6mm wide) Toothed Idler (5mm bore),POWGE,,,,,,,,,,,X,,,
-Motion,GT2 20T (9mm wide) Toothed Idler (5mm bore),POWGE,,,,,,,,,,,X,,,
-Motion,GT2 80T (6mm wide) Pulley (5mm bore),POWGE,,,,,,,,,,,X,,,
-Motion,F695 2RS Bearing,RainDew,,,,,,,,,,,X,,,"There have been reports of early failures with fushi bearings, Raindew seem to be built quite a bit better (for china)"
-Motion,625 2RS Bearing,RainDew,,,,,,,,,,,X,,,"There have been reports of early failures with fushi bearings, Raindew seem to be built quite a bit better (for china)"
-Motion,5x60mm Shaft - Grind Flat,linkcnc,,,,,,,,,,,X,,,"linkcnc will precut your shafts to specified lengths if you do not have cutting tools like a Dremel, you still need to make flats yourself"
-Motion,5x30mm Shaft,linkcnc,,,,,,,,,,,X,,,
-Motion,Linear Rail MGN9H ** See Configurator for length **,RobotDigg (Black Stainless Rails),,,,,,,,,,,X,,,RobotDigg PN: GS_MGN9-1H-B300
-,,RobotDigg (Black Stainless Rails),,,,,,,,,,,X,,,RobotDigg PN: GS_MGN9-1H-B350
-,,RobotDigg (Black Stainless Rails),,,,,,,,,,,X,,,RobotDigg PN: GS_MGN9-1H-B400
-Vibration Management,Rubber Compressor Foot,Amazon,,,,,,,,,,,X,,,Comes and goes in stock from Amazon
-Electronics,Omron Mouse Button - Micro Switch,Digikey,,,,,,,,,,,X,,,
-Electronics,PL-08N Inductive Probe,Zhongde,,,,,,,,,,,X,,,
-Electronics,BAT85 Diode,DigiKey,,,,,,,,,,,X,,,"You do not want to get this part from an Ali vendor as quality can be suspect. If these sources are not available in your area, please ask in a regional channel on Discord or search a local electronics store."
-Electronics,Omron G3NA-210B-DC5 (10A) or <br> Crydom D2425 (25A) or <br>Crydom 84134000 (10A) SSR,Digikey (Omron),,,,,,,,,,,X,,,"Crydom (2nd Link, also valid alternative), UTU PN just adds TUV support as a certification to the relay (Omron Only)"
-Electronics,NEMA17 Motor 17HS19-2004S,Stepper Online,,,,,,,,,,,X,,,Strongly advise buying the specific steppers to reduce the chance of underperformance
-Electronics,Mean Well LRS-200-24 PSU,Digikey,,,,,,,,,,,X,,,Do not cheap out on this. Get a legitmate MeanWell PSU. Higher wattage is not necessary since the bed is mains powered. Higher wattage also comes with a fan which adds to the noise.
-Electronics,Mean Well RS-25-5 PSU,Digikey,,,,,,,,,,,X,,,Do not cheap out on this. Get a legitmate MeanWell PSU.
-Electronics,ZF - Rocker Switches DPST 16A ON-OFF,Digikey (no Light),,,,,,,,,,,X,,,Note the Mouser (Red Light) only has a 125v indicator in it. For 220/240 countries use the no light model
-Electronics,Fuse: Medium Time Delay Acting 8A 250V ,Digikey,,,,,,,,,,,X,,,5 X 20mm Glass Cartridge 
-Electronics,Filtered Power Inlet: <br> TycoElectronics - 10EGG1-2 (Normal) or 10EHG1-2 (Medical),Digikey,,,,,,,,,,,X,,,
-Electronics,IEC320 C14 Inlet - Push-fit - w/ Rocker Switch & Fuse,See note for PiF Digikey,,,,,,,,,,,X,,,If you are getting PiF parts you will need the filtered inlet and switch
-Electronics,40x40x10 Axial Fan- Ball Bearing (24V),GDSTIME,,,,,,,,,,,X,,,Delta or Sunon are preferred brands
-Electronics,40x40x20 Centrifugal Blower Fan - Ball Bearing (24V),GDSTIME,,,,,,,,,,,X,,,
-Electronics,60x60x20 Axial Fan (24V),DigiKey,,,,,,,,,,,X,,,
-Electronics,Thermal Fuse,AliExpress,,,,,,,,,,,X,,,"Buy a 115C-125C thermal cutoff, you want the fuse to blow before the heater falls off the bed"
-Controller,RaspberryPi4,Arrow,,,,,,,,,,,X,,,
-Controller,MicroSD Card,Amazon (64gb),,,,,,,,,,,X,,,
-Controller,USB C Power Cable,Amazon,,,,,,,,,,,X,,,"to get power from the RS-25-5 to the Pi, you can use a spare from around the house "
-Controller,SKR 1.3,BIGTREETECH,,,,,,,,,,,X,,,
-Controller,TMC2209 Stepper Motor Driver,BIGTREETECH,,,,,,,,,,,X,,,
+Motion,GT2 Open Belt LL-2GT-9 (9mm wide),Trianglelab,https://www.aliexpress.com/item/GATES-LL-2GT-3D-printer-gear-synchronous-belt-GT2-Width-6MM-9MM-High-quality-wear-resistant/32853559638.html,http://s.click.aliexpress.com/e/2pncOJKs,SDP-SI (Genuine US Made Gates),http://shop.sdp-si.com/catalog/product/?id=A_6R51MC090,,POWGE,https://www.aliexpress.com/item/32987817703.html,https://s.click.aliexpress.com/e/_9G8ynJ,,,X,,,
+Motion,GT2 Belt Loop (6mm wide) - 188mm,POWGE,https://www.aliexpress.com/item/4000034021834.html,http://s.click.aliexpress.com/e/ripvAfVQ,SDP-SI (Genuine US Made Gates),http://shop.sdp-si.com/catalog/product/?id=A%206R51M094060,,,,,,,X,,,
+Motion,GT2 20T (6mm wide) Pulley (5mm bore),POWGE,https://www.aliexpress.com/item/Sale-10pcs-GT2-Timing-Pulley-20teeth-Bore-6-35mm-1-4-fit-for-GT2-belt-Width/32226562320.html,http://s.click.aliexpress.com/e/E1Y0mkUu,,,,,,,,,X,,,
+Motion,GT2 16T (6mm wide) Pulley (5mm bore),POWGE,https://www.aliexpress.com/store/product/Freeshipping-40pcs-16teeth-GT2-Timing-Pulley-Bore-5mm-fit-for-width-6mm-of-2GT-Timing/702327_1744808992.html,http://s.click.aliexpress.com/e/eA5u8X6Y,,,,,,,,,X,,,
+Motion,GT2 20T (9mm wide) Pulley (5mm bore),POWGE,https://www.aliexpress.com/store/product/1pcs-20-Teeth-GT2-Timing-Pulley-Bore-5mm-for-wide-9mm-2GT-open-Timing-Belt-Small/702327_32650675929.html,http://s.click.aliexpress.com/e/rsE0Y3Io,,,,,,,,,X,,,
+Motion,GT2 20T (6mm wide) Toothed Idler (5mm bore),POWGE,https://www.aliexpress.com/item/32726309946.html,https://s.click.aliexpress.com/e/_dVn7qSa,Filastruder (US) [Gates],https://www.filastruder.com/products/gates-2gt-idler,,E3D (EU) [Gates],https://e3d-online.com/gates-powergripr-toothed-idler-6mm,,,,X,,,
+Motion,GT2 20T (9mm wide) Toothed Idler (5mm bore),POWGE,https://www.aliexpress.com/item/32750492452.html,https://s.click.aliexpress.com/e/_d7zEFkK,Filastruder (US) [Gates],https://www.filastruder.com/products/gates-2gt-idler,,E3D (EU) [Gates],https://e3d-online.com/gates-powergrip-toothed-idler-9mm,,,,X,,,
+Motion,GT2 80T (6mm wide) Pulley (5mm bore),POWGE,https://www.aliexpress.com/item/32782605159.html,https://s.click.aliexpress.com/e/_dTml4KK,,,,,,,,,X,,,
+Motion,F695 2RS Bearing,RainDew,https://www.aliexpress.com/item/33001186278.html,http://s.click.aliexpress.com/e/FhQBXGmc,Fushi,https://www.aliexpress.com/item/F695-2RS-Bearing-5-13-4mm-10-PCS-ABEC-1-Flanged-Miniature-F695RS-Ball-Bearings-RF/32850989216.html,http://s.click.aliexpress.com/e/Mv4uHJoM,,,,,,X,,,"There have been reports of early failures with fushi bearings, Raindew seem to be built quite a bit better (for china)"
+Motion,625 2RS Bearing,RainDew,https://www.aliexpress.com/item/32991204773.html,http://s.click.aliexpress.com/e/3slenRuM,Fushi,https://www.aliexpress.com/item/625RS-Bearing-ABEC-5-10PCS-5-16-5-mm-Miniature-Sealed-625-2RS-Ball-Bearings-625/32802288535.html,http://s.click.aliexpress.com/e/nNRaugdw,,,,,,X,,,"There have been reports of early failures with fushi bearings, Raindew seem to be built quite a bit better (for china)"
+Motion,5x60mm Shaft - Grind Flat,linkcnc,https://www.aliexpress.com/item/1pcs-SFC5-WCS5mm-L500mm-chrome-plated-linear-rod-round-Linear-Motion-Shaft-for-CNC-XYZ-can/1739093502.html,http://s.click.aliexpress.com/e/LquJdTx2,FermioLabs,https://fermio.xyz/voron/voron2/premium-line/shafts/45/sfr5-60-g60-fc0,,,,,,,X,,,"linkcnc will precut your shafts to specified lengths if you do not have cutting tools like a Dremel, you still need to make flats yourself"
+Motion,5x30mm Shaft,linkcnc,https://www.aliexpress.com/item/1pcs-SFC5-WCS5mm-L500mm-chrome-plated-linear-rod-round-Linear-Motion-Shaft-for-CNC-XYZ-can/1739093502.html,http://s.click.aliexpress.com/e/EKBTkxNm,FermioLabs,https://fermio.xyz/voron/voron2/premium-line/shafts/44/sfr5-30,,,,,,,X,,,
+Motion,Linear Rail MGN9H ** See Configurator for length ** <br> Black Stainless Option,RobotDigg (Black Stainless Rails),"https://www.robotdigg.com/product/1314/Black-anodized-linear-rail-7,-9,-12-and-15",,,,,,,,,,X,,,"RobotDigg 300mm PN: GS_MGN9-1H-B300,  350mm PN: GS_MGN9-1H-B350, 400mm PN: GS_MGN9-1H-B400"
+Motion,Linear Rail MGN9H ** See Configurator for length ** <br> Standard Stainless Steel,CNA,https://www.aliexpress.com/item/32773296501.html?spm=2114.12010612.8148356.4.46a27cbep2UDWu,,Zyltech,http://www.zyltech.com/zyltech-mgn9-linear-rail-with-single-or-double-carriage-block/,,FermioLabs,https://fermio.xyz/voron/voron2/linear-motion/,,,,,,,
+Vibration Management,Rubber Compressor Foot,Amazon,https://www.amazon.com/uxcell-47mmx18mm-Compressor-Replacement-Black/dp/B0711Y6T56/ref=sr_1_4?ie=UTF8&qid=1550343762&sr=8-4&keywords=compressor+foot,https://amzn.to/2TqJkWS,AliExpress,https://www.aliexpress.com/item/High-quality-4pcs-48mmx18mm-Black-Rubber-Pad-Replacement-Foot-Pads-Vibration-Isolator-for-Air-Compressors/32990144547.html,http://s.click.aliexpress.com/e/_d78yoQO,,,,,,X,,,Comes and goes in stock from Amazon
+Electronics,Omron Mouse Button - Micro Switch,Digikey,https://www.digikey.com/product-detail/en/omron-electronics-inc-emc-div/D2F-5L/Z8846-ND/8593137,,,,,,,,,,X,,,
+Electronics,PL-08N Inductive Probe,Zhongde,https://www.aliexpress.com/item/PL-08N2-8mm-sensing-DC-NPN-NC-Cube-shell-inductive-Screen-shield-type-proximity-switch-LP08/32803870919.html,http://s.click.aliexpress.com/e/kff2VwTW,,,,,,,,,X,,,
+Electronics,BAT85 Diode,DigiKey,https://www.digikey.com/product-detail/en/BAT85S-TR/BAT85SCT-ND/3104371,,,,,,,,,,X,,,"You do not want to get this part from an Ali vendor as quality can be suspect. If these sources are not available in your area, please ask in a regional channel on Discord or search a local electronics store."
+Electronics,Omron G3NA-210B-DC5 (10A) or <br> Crydom D2425 (25A) or <br>Crydom 84134000 (10A) SSR,Digikey (Omron),https://www.digikey.com/en/products/detail/omron-automation-and-safety/G3NA-210B-UTU-DC5-24/634443?,,Digikey (Crydom 25A),https://www.digikey.com/product-detail/en/sensata-crydom/D2425/CC1006-ND/139477,,Digikey (Crydom 10A),https://www.digikey.com/product-detail/en/sensata-crydom/84134000/646-1227-ND/1816787,,,,X,,,"Crydom (2nd Link, also valid alternative), UTU PN just adds TUV support as a certification to the relay (Omron Only)"
+Electronics,NEMA17 Motor 17HS19-2004S,Stepper Online,https://www.omc-stepperonline.com/nema-17-bipolar-59ncm-84oz-in-2a-42x48mm-4-wires-w-1m-cable-and-connector.html,,Stepper Online,https://www.aliexpress.com/store/product/5PCS-59Ncm-84oz-in-Nema-17-Stepper-Motor-2A-4-wire-1m-Cable-for-DIY-3D/1984315_32589488227.html,http://s.click.aliexpress.com/e/5E5huNIu,Amazon,https://www.amazon.com/STEPPERONLINE-Stepper-Bipolar-Connector-compatible/dp/B00PNEQKC0/ref=sr_1_4?crid=3HWFT2JRA2OQE&dchild=1&keywords=17hs19-2004s1&qid=1599500107&s=industrial&sprefix=17hs19%2Cindustrial%2C156&sr=1-4,https://amzn.to/325amWA,,,X,,,Strongly advise buying the specific steppers to reduce the chance of underperformance
+Electronics,Mean Well LRS-200-24 PSU,Digikey,https://www.digikey.com/products/en?keywords=LRS-200-24,,Digikey (Europe) ,https://www.digikey.com/products/en?keywords=RSP-200-24,,,,,,,X,,,Do not cheap out on this. Get a legitmate MeanWell PSU. Higher wattage is not necessary since the bed is mains powered. Higher wattage also comes with a fan which adds to the noise.
+Electronics,Mean Well RS-25-5 PSU,Digikey,https://www.digikey.com/product-detail/en/mean-well-usa-inc/RS-25-5/1866-4145-ND/7706180,,,,,,,,,,X,,,Do not cheap out on this. Get a legitmate MeanWell PSU.
+Electronics,ZF - Rocker Switches DPST 16A ON-OFF,Digikey (no Light),https://www.digikey.com/products/en?keywords=wrg32f2fbbnn,,Mouser (Red Light),https://www.mouser.com/ProductDetail/ZF/WRG32F2BBRLN?qs=%2Fha2pyFadugTPgk3aI89ZNgIRYXUDJ2iew%252BR%252BPzJE%2FSagvnd6sid0w%3D%3D&utm_source=octopart&utm_medium=aggregator&utm_campaign=540-WRG32F2BBRLN&utm_content=ZF%20Electronics,,,,,,,X,,,Note the Mouser (Red Light) only has a 125v indicator in it. For 220/240 countries use the no light model
+Electronics,Fuse: Medium Time Delay Acting 8A 250V ,Digikey,https://www.digikey.com/products/en?keywords=0232008.mxp,,,,,,,,,,X,,,5 X 20mm Glass Cartridge 
+Electronics,Filtered Power Inlet: <br> TycoElectronics - 10EGG1-2 (Normal) or 10EHG1-2 (Medical),Digikey,https://www.digikey.com/products/en?keywords=3-1609115-3,,,,,,,,,,X,,,
+Electronics,IEC320 C14 Inlet - Push-fit - w/ Rocker Switch & Fuse,PiF Digikey,https://www.digikey.com/en/products/detail/adam-tech/IEC-GS-1-100/9831135,,,,,,,,,,X,,,If you are getting PiF parts you will need the filtered inlet and switch
+Electronics,40x40x10 Axial Fan- Ball Bearing (24V),GDSTIME,https://www.aliexpress.com/item/32726640438.html,https://s.click.aliexpress.com/e/_d8MBoAW,Amazon,https://www.amazon.com/dp/B07DB5H6K1,,,,,,,X,,,Delta or Sunon are preferred brands
+Electronics,40x40x20 Centrifugal Blower Fan - Ball Bearing (24V),GDSTIME,https://www.aliexpress.com/item/4001245087911.html,https://s.click.aliexpress.com/e/_dZ3Fq0i,Amazon,https://www.amazon.com/dp/B07L2YH79Y,,,,,,,X,,,
+Electronics,60x60x20 Axial Fan (24V),DigiKey,https://www.digikey.com/product-detail/en/orion-fans/OD6020-24HB/1053-1234-ND/2621139,,GDSTIME,https://www.aliexpress.com/item/32899594270.html,https://s.click.aliexpress.com/e/_d67FlLy,Amazon,https://www.amazon.com/dp/B08577444D,,,,X,,,
+Electronics,Thermal Fuse,AliExpress,https://www.aliexpress.com/item/32885492280.html,http://s.click.aliexpress.com/e/MCR810Q4,,,,,,,,,X,,,"Buy a 115C-125C thermal cutoff, you want the fuse to blow before the heater falls off the bed"
+Controller,RaspberryPi4,Arrow,https://www.arrow.com/en/products/raspberrypi4/raspberry-pi-foundation,,,,,,,,,,X,,,
+Controller,MicroSD Card,Amazon (64gb),https://www.amazon.com/SanDisk-Ultra-microSDXC-Memory-Adapter/dp/B073JYVKNX/,,,,,,,,,,X,,,
+Controller,USB C Power Cable,Amazon,https://www.amazon.com/AmazonBasics-Type-C-USB-Male-Cable/dp/B01GGKYKQM/,,,,,,,,,,X,,,"to get power from the RS-25-5 to the Pi, you can use a spare from around the house "
+Controller,SKR 1.3,BIGTREETECH,https://www.aliexpress.com/item/32980090169.html,https://s.click.aliexpress.com/e/_dY6gsHM,Amazon,https://www.amazon.com/BIQU-Printer-Smoothieboard-Compatible-Ramps1-4/dp/B07P87J274/ref=sr_1_5?dchild=1&keywords=Skr+1.3&qid=1597166312&sr=8-5,https://amzn.to/2DKIWvL,,,,,,X,,,
+Controller,TMC2209 Stepper Motor Driver,BIGTREETECH,https://www.aliexpress.com/item/33029587820.html,https://s.click.aliexpress.com/e/_dUlA1Bk,Amazon,https://www.amazon.com/BIGTREETECH-TMC2209-Stepper-Driver-Printer/dp/B07W5S3KVF/ref=sr_1_3?dchild=1&keywords=BTT+2209&qid=1597166172&sr=8-3,https://amzn.to/3kzV6bz,,,,,,X,,,
 Controller,USB Cable A-male B-male (Included with SKR),,,,,,,,,,,,X,,,Most SKR kits come with a cable so this part is likely unnecessary as a separate purchase. Double check your purchase history.
-Controller,Mini 12864 Display (Type B),Fysetc,,,,,,,,,,,X,,,
-Frame,OpenBuilds Angle Corner Connector,OpenBuilds,,,,,,,,,,,X,,,
+Controller,Mini 12864 Display (Type B),Fysetc,"https://www.aliexpress.com/item/32980210325.html?spm=a2g0o.productlist.0.0.6cee2224qobujC&algo_pvid=d15b7ec7-40aa-482a-9a67-8188e5d17108&algo_expid=d15b7ec7-40aa-482a-9a67-8188e5d17108-1&btsid=0ab6fb8815879973153223218ec2d2&ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_",http://s.click.aliexpress.com/e/_d7ByDeP,,,,,,,,,X,,,
+Frame,OpenBuilds Angle Corner Connector,OpenBuilds,https://openbuildspartstore.com/black-angle-corner-connector/,,FermioLabs,https://fermio.xyz/voron/voron2/basic-line/accessories/79/black-angle-corner-connector,,,,,,,X,,,
 Frame,Misumi HFSB5-2020 (Size depends - use configurator),Misumi,,,,,,,,,,,X,,,
 ,,,,,,,,,,,,,X,,,
 ,,,,,,,,,,,,,X,,,
