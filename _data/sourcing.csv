@@ -90,19 +90,19 @@ Cables,JST-XH Female Pin,,,,,,,,,,,,X,,,Not readily available outside of the kit
 Cables,JST-XH Connector Plug 4 Position,,,,,,,,,,,,X,,,Not readily available outside of the kit above
 Cables,JST-XH Connector Plug 3 Position,,,,,,,,,,,,X,,,Not readily available outside of the kit above
 Cables,JST-XH Connector Plug 2 Position,,,,,,,,,,,,X,,,Not readily available outside of the kit above
-Cables,24AWG Silicone Cable (220ft total),Striveday,,,,,,,,,,,X,,,"Since Lian has 4-6 conductor ribbon cable in a few difference sizes, makes wiring a bit easier through the cable chains"
-Cables,20AWG Silicone Cable (10ft total),,,,,,,,,,,,X,,,
+Cables,24AWG Silicone Cable (220ft total),Striveday,https://www.amazon.com/gp/product/B01LH1G2IE/,,Striveday,https://www.amazon.com/gp/product/B01LH1G2IE/,,Striveday,https://www.aliexpress.com/item/30-28-26-24-22-20-18awg-5-colors-Flexible-Silicone-Wire-Tinned-Copper-line-5/32872395185.html,http://s.click.aliexpress.com/e/kzE6vJLi,,,X,,,"Since Lian has 4-6 conductor ribbon cable in a few difference sizes, makes wiring a bit easier through the cable chains"
+Cables,20AWG Silicone Cable (10ft total),Striveday,https://www.amazon.com/gp/product/B01LH1G2IE/,,Striveday,https://www.amazon.com/gp/product/B01LH1G2IE/,,Striveday,https://www.aliexpress.com/item/30-28-26-24-22-20-18awg-5-colors-Flexible-Silicone-Wire-Tinned-Copper-line-5/32872395185.html,http://s.click.aliexpress.com/e/kzE6vJLi,,,X,,,
 Cables,IGUS E2-15-10-028-0 Chain,,,,,,,,,,,,X,,,"Z Chain, (250 - 22 links) (300 - 25 links) (350 - 28 links)"
 Cables,IGUS E2-150-10-12PZ Chain Ends,,,,,,,,,,,,X,,,Z Chain End link sets
 Cables,IGUS E2i-10-10-018-0 Chain,,,,,,,,,,,,X,,,X/Y Chain (250 - 16 links) (300 - 19 links) (350 - 21 links)
 Cables,IGUS E2i-100-10-12PZ Chain Ends,,,,,,,,,,,,X,,,X/Y Chain End link sets
-Panels,Bottom/Back/Electronics Bay Panels,Michaels Craft Store (Coroplast),,,,,,,,,,,X,,,
-Panels,Side/Front/Top Acrylic Panels,TAP Plastics (Acrylic),,,,,,,,,,,X,,,
-Buildplate,Aluminum Build Plate ,,,,,,,,,,,,X,,,"MIC6/ATP-5/Jig Plate/etc
+Panels,Bottom/Back/Electronics Bay Panels,Michaels Craft Store (Coroplast),https://www.michaels.com/corrugated-board-by-creatology/M10567770.html,,MN Laser Cutting,http://mnlasercutting.com,,,,,,,X,,,
+Panels,Side/Front/Top Acrylic Panels,TAP Plastics (Acrylic),https://www.tapplastics.com/product/plastics/cut_to_size_plastic/acrylic_sheets_clear/508,,,,,,,,,,X,,,
+Buildplate,Aluminum Build Plate ,FermioLabs(machined),https://fermio.xyz/voron/voron2/basic-line/beds/,,FermioLabs (DIY),https://fermio.xyz/voron/voron2/do-it-yourself/beds/,,Clever3d.de,https://clever3d.de/epages/7a4290fc-7c7f-46cc-9b99-eadef22228e2.sf/en_US/?ObjectPath=/Shops/7a4290fc-7c7f-46cc-9b99-eadef22228e2/Products/AluGuss8mm,,,,X,,,"MIC6/ATP-5/Jig Plate/etc
 (5/16in or 8mm depending on whats available in your country)"
-Buildplate,Silicone AC Heater 200x200mm,Keenovo (120v),,,,,,,,,,,X,,,
-,Silicone AC Heater 240x240mm,Keenovo (120v),,,,,,,,,,,X,,,
-,Silicone AC Heater 300x300mm,Keenovo (120v),,,,,,,,,,,X,,,
-Buildplate,PEI + 3M 468P (200MP),CSHyde (Trim),,,,,,,,,,,X,,,
-,,CSHyde,,,,,,,,,,,X,,,
-,,CSHyde,,,,,,,,,,,X,,,
+Buildplate,Silicone AC Heater 200x200mm,Keenovo (120v),https://keenovo.store/collections/standard-keenovo-silicone-heaters/products/keenovo-square-silicone-heater-3d-printer-build-plate-heatbed-heating-pad?variant=8324020731959,,Keenovo (220v),https://keenovo.store/collections/standard-keenovo-silicone-heaters/products/keenovo-square-silicone-heater-3d-printer-build-plate-heatbed-heating-pad?variant=8324020764727,,,,,,,X,,,
+,Silicone AC Heater 240x240mm,Keenovo (120v),https://keenovo.store/collections/standard-keenovo-silicone-heaters/products/keenovo-square-silicone-heater-3d-printer-build-plate-heatbed-heating-pad?variant=8324020928567,,Keenovo (220v),https://keenovo.store/collections/standard-keenovo-silicone-heaters/products/keenovo-square-silicone-heater-3d-printer-build-plate-heatbed-heating-pad?variant=8324020961335,,,,,,,X,,,
+,Silicone AC Heater 300x300mm,Keenovo (120v),https://keenovo.store/collections/standard-keenovo-silicone-heaters/products/keenovo-square-silicone-heater-3d-printer-build-plate-heatbed-heating-pad?variant=8324021092407,,Keenovo (220v),https://keenovo.store/collections/standard-keenovo-silicone-heaters/products/keenovo-square-silicone-heater-3d-printer-build-plate-heatbed-heating-pad?variant=8324021125175,,,,,,,X,,,
+Buildplate,PEI + 3M 468P (200MP) 250mm2,CSHyde (Trim),https://catalog.cshyde.com/item/pei-ultem/int-surface-10-mil-ultem-pei-w-3m-acrylic-adhesive/36-10a-3d-9-84-12-40,,"Mueller (Trim, includes adhesive)",https://www.muellerbestellung.de/Ultem-1000-Schwarz-030-mm-dick-300-x-300-mm-Selbstklebend,,Mueller 5pack (trim),https://www.muellerbestellung.de/Ultem-1000-Schwarz-030-mm-dick-420-x-297-mm-5-Stk,,,,X,,,
+,PEI + 3M 468P (200MP) 300mm2,CSHyde,https://catalog.cshyde.com/item/pei-ultem/int-surface-10-mil-ultem-pei-w-3m-acrylic-adhesive/36-10a-3d-12x12,,Mueller (includes adhesive),https://www.muellerbestellung.de/Ultem-1000-Schwarz-030-mm-dick-300-x-300-mm-Selbstklebend,,Mueller 5pack (trim),https://www.muellerbestellung.de/Ultem-1000-Schwarz-030-mm-dick-420-x-297-mm-5-Stk,,,,X,,,
+,PEI + 3M 468P (200MP) 350mm2,CSHyde,https://catalog.cshyde.com/item/pei-ultem/int-surface-10-mil-ultem-pei-w-3m-acrylic-adhesive/36-10a-3d-14x14,,Mueller (includes adhesive),https://www.muellerbestellung.de/Ultem-1000-Schwarz-030-mm-dick-350-x-350-mm-Selbstklebend,,,,,,,X,,,
