@@ -64,32 +64,32 @@ Controller,TMC2209 Stepper Motor Driver,BIGTREETECH,https://www.aliexpress.com/i
 Controller,USB Cable A-male B-male (Included with SKR),,,,,,,,,,,,X,,,Most SKR kits come with a cable so this part is likely unnecessary as a separate purchase. Double check your purchase history.
 Controller,Mini 12864 Display (Type B),Fysetc,"https://www.aliexpress.com/item/32980210325.html?spm=a2g0o.productlist.0.0.6cee2224qobujC&algo_pvid=d15b7ec7-40aa-482a-9a67-8188e5d17108&algo_expid=d15b7ec7-40aa-482a-9a67-8188e5d17108-1&btsid=0ab6fb8815879973153223218ec2d2&ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_",http://s.click.aliexpress.com/e/_d7ByDeP,,,,,,,,,X,,,
 Frame,OpenBuilds Angle Corner Connector,OpenBuilds,https://openbuildspartstore.com/black-angle-corner-connector/,,FermioLabs,https://fermio.xyz/voron/voron2/basic-line/accessories/79/black-angle-corner-connector,,,,,,,X,,,
-Frame,Misumi HFSB5-2020 (Size depends - use configurator),Misumi,,,,,,,,,,,X,,,
-,,,,,,,,,,,,,X,,,
-,,,,,,,,,,,,,X,,,
-Misc,"Bowden Tube (4mm OD, ID depends on extruder type)",Aliexpress,,,,,,,,,,,X,,,"4mm OD, 2mm ID, get 10m of the first supplier, its cheap and is a wear item"
-Misc,6mm x 3mm Round Neodymium Magnets,Aliexpress,,,,,,,,,,,X,,,Magnets for the front door
-Misc,Bowden Coupler (for 4mm OD tube),E3D (1.75mm),,,,,,,,,,,X,,,
-Misc,Foam Panel Tape (5mm wide/1mm thick),Aliexpress,,,,,,,,,,,X,,,
-Cables,Fork Spade Terminal,Digikey,,,,,,,,,,,X,,,for power supply and SSR
-Cables,Insulated Crimp Receptical,Digikey,,,,,,,,,,,X,,,for Power Inlet (6.35mm)
-Cables,"Nylon Cable Ties 4""",Amazon,,,,,,,,,,,X,,,
-Cables,MicroFit3 Male Pin (43031-0007),Digikey,,,,,,,,,,,X,,,This is a good starter kit that has plenty of pins and all of the required connectors. The kit comes with individual part numbers to source individual pieces later if required.
-Cables,MicroFit3 Female Pin (43030-0007),Digikey,,,,,,,,,,,X,,,
-Cables,MicroFit Connector Receptacle 4 Position (43645-0400),Digikey,,,,,,,,,,,X,,,
-Cables,MicroFit Connector Receptacle 3 Position (43645-0300),Digikey,,,,,,,,,,,X,,,
-Cables,MicroFit Connector Receptacle 2 Position (43645-0200),Digikey,,,,,,,,,,,X,,,
-Cables,MicroFit Connector Plug 4 Position (43640-0401),Digikey,,,,,,,,,,,X,,,
-Cables,MicroFit Connector Plug 3 Position (43640-0301),Digikey,,,,,,,,,,,X,,,
-Cables,MicroFit Connector Plug 2 Position (43640-0201),Digikey,,,,,,,,,,,X,,,
-Cables,MLX Power Receptacle 3 Position (50-84-2030),Digikey,,,,,,,,,,,X,,,"For Bed (Line, Neutral and Ground)"
-Cables,MLX Power Plug 3 Position (50-84-1030),Digikey,,,,,,,,,,,X,,,
-Cables,MLX Male Pin (02-08-2004),Digikey,,,,,,,,,,,X,,,
-Cables,MLX Female Pin (02-08-1002),Digikey,,,,,,,,,,,X,,,
-Cables,JST-XH Female Pin,Aliexpress,,,,,,,,,,,X,,,"for SKR boards only, see optional parts for other controllers"
-Cables,JST-XH Connector Plug 4 Position,,,,,,,,,,,,X,,,
-Cables,JST-XH Connector Plug 3 Position,,,,,,,,,,,,X,,,
-Cables,JST-XH Connector Plug 2 Position,,,,,,,,,,,,X,,,
+Frame,Misumi HFSB5-2020 (Size depends - use configurator),Misumi,https://us.misumi-ec.com/vona2/detail/110302683830/?Inch=0,,FermioLabs (Premium),https://fermio.xyz/en/voron-design/voron2/frames/,,,,,,,X,,,
+Misc,"Bowden Tube (4mm OD, ID depends on extruder type)",Aliexpress,https://www.aliexpress.com/item/1005001408141263.html,http://s.click.aliexpress.com/e/5OVtqbtq,Trianglelab,https://www.aliexpress.com/item/32811240720.html,http://s.click.aliexpress.com/e/D7QNRBCk,,,,,,X,,,"4mm OD, 2mm ID, get 10m of the first supplier, its cheap and is a wear item"
+Misc,6mm x 3mm Round Neodymium Magnets,Aliexpress,https://s.click.aliexpress.com/e/_dVYGYcW,,,,,,,,,,X,,,Magnets for the front door
+Misc,Bowden Coupler (for 4mm OD tube),E3D (1.75mm),https://e3d-online.com/products/threaded-bowden-coupling,,McMaster-Carr,https://www.mcmaster.com/5449K171/,,,,,,,X,,,
+Misc,Foam Panel Tape (5mm wide/1mm thick),Aliexpress,https://www.aliexpress.com/item/32885016096.html,http://s.click.aliexpress.com/e/KQxWUrx6,,,,,,,,,X,,,
+Cables,Fork Spade Terminal,Digikey,https://www.digikey.com/products/en?keywords=19198-0006,,,,,,,,,,X,,,for power supply and SSR
+Cables,Insulated Crimp Receptical,Digikey,https://www.digikey.com/products/en?keywords=2-520184-2,,,,,,,,,,X,,,for Power Inlet (6.35mm)
+Cables,"Nylon Cable Ties 4""",Amazon,https://www.amazon.com/gp/product/B01M06HTVH/,https://amzn.to/2mzoRjl,,,,,,,,,X,,,
+Cables,Microfit3 Starter kit,Digikey,https://www.digikey.com/products/en?keywords=%2076650-0159,,,,,,,,,,X,,,This is a good starter kit that has plenty of pins and all of the required connectors. The kit comes with individual part numbers to source individual pieces later if required.
+Cables,MicroFit3 Male Pin (43031-0007),Digikey,https://www.digikey.com/products/en?keywords=43031-0007,,,,,,,,,,X,,,"In most cases, you’re likely better off with the kit.  See above."
+Cables,MicroFit3 Female Pin (43030-0007),Digikey,https://www.digikey.com/products/en?keywords=43030-0007,,,,,,,,,,X,,,"In most cases, you’re likely better off with the kit.  See above."
+Cables,MicroFit Connector Receptacle 4 Position (43645-0400),Digikey,https://www.digikey.com/products/en?keywords=43645-0400,,,,,,,,,,X,,,"In most cases, you’re likely better off with the kit.  See above."
+Cables,MicroFit Connector Receptacle 3 Position (43645-0300),Digikey,https://www.digikey.com/products/en?keywords=43645-0300,,,,,,,,,,X,,,"In most cases, you’re likely better off with the kit.  See above."
+Cables,MicroFit Connector Receptacle 2 Position (43645-0200),Digikey,https://www.digikey.com/products/en?keywords=43645-0200,,,,,,,,,,X,,,"In most cases, you’re likely better off with the kit.  See above."
+Cables,MicroFit Connector Plug 4 Position (43640-0401),Digikey,https://www.digikey.com/products/en?keywords=43640-0401,,,,,,,,,,X,,,"In most cases, you’re likely better off with the kit.  See above."
+Cables,MicroFit Connector Plug 3 Position (43640-0301),Digikey,https://www.digikey.com/products/en?keywords=43640-0301,,,,,,,,,,X,,,"In most cases, you’re likely better off with the kit.  See above."
+Cables,MicroFit Connector Plug 2 Position (43640-0201),Digikey,https://www.digikey.com/products/en?keywords=43640-0201,,,,,,,,,,X,,,"In most cases, you’re likely better off with the kit.  See above."
+Cables,MLX Power Receptacle 3 Position (50-84-2030),Digikey,https://www.digikey.com/products/en?keywords=50-84-2030,,,,,,,,,,X,,,"For Bed (Line, Neutral and Ground)"
+Cables,MLX Power Plug 3 Position (50-84-1030),Digikey,https://www.digikey.com/products/en?keywords=50-84-1030,,,,,,,,,,X,,,
+Cables,MLX Male Pin (02-08-2004),Digikey,https://www.digikey.com/products/en?keywords=02-08-2004,,,,,,,,,,X,,,
+Cables,MLX Female Pin (02-08-1002),Digikey,https://www.digikey.com/products/en?keywords=02-08-1002,,,,,,,,,,X,,,
+Cables,JST-XH Connector Kit,Aliexpress,https://www.aliexpress.com/item/32963843207.html,https://s.click.aliexpress.com/e/_dZtuHpY,Amazon,https://www.amazon.com/dp/B015Y6JOUG,,,,,,,X,,,"for SKR boards only, see optional parts for other controllers"
+Cables,JST-XH Female Pin,,,,,,,,,,,,X,,,Not readily available outside of the kit above
+Cables,JST-XH Connector Plug 4 Position,,,,,,,,,,,,X,,,Not readily available outside of the kit above
+Cables,JST-XH Connector Plug 3 Position,,,,,,,,,,,,X,,,Not readily available outside of the kit above
+Cables,JST-XH Connector Plug 2 Position,,,,,,,,,,,,X,,,Not readily available outside of the kit above
 Cables,24AWG Silicone Cable (220ft total),Striveday,,,,,,,,,,,X,,,"Since Lian has 4-6 conductor ribbon cable in a few difference sizes, makes wiring a bit easier through the cable chains"
 Cables,20AWG Silicone Cable (10ft total),,,,,,,,,,,,X,,,
 Cables,IGUS E2-15-10-028-0 Chain,,,,,,,,,,,,X,,,"Z Chain, (250 - 22 links) (300 - 25 links) (350 - 28 links)"
